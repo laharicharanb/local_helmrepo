@@ -1,0 +1,58 @@
+apiVersion: v1
+entries:
+  chart1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-03T10:34:56.011938872+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 211fb60963f1c7e0619095826dc53f3aa70d02c7aa4e056ad6f776fbfc2b7d8e
+    name: chart1
+    type: application
+    urls:
+    - chart1-0.1.0.tgz
+    version: 0.1.0
+  chart2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-03T10:34:56.012348301+05:30"
+    description: A Helm chart for Kubernetes
+    digest: acbc39040fa9372d0a57a82b2c5f446bcac3765a88b0a6e9dcf94f28b7486164
+    name: chart2
+    type: application
+    urls:
+    - chart2-0.1.0.tgz
+    version: 0.1.0
+  chart3:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-03T10:34:56.012719105+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 9c0c85b5ab7392c7e3299d533419c9f5f01e0aed6125bf9dbfb6875dc7ac448c
+    name: chart3
+    type: application
+    urls:
+    - chart3-0.1.0.tgz
+    version: 0.1.0
+  chart4:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-03T10:34:56.013049456+05:30"
+    description: This is a local helm chart on GITEA
+    digest: f63a211613366621926a8b2fd3dc4606879ea8e26dab981e7a68e5f9dc1b1753
+    name: chart4
+    type: application
+    urls:
+    - chart4-0.1.0.tgz
+    version: 0.1.0
+  ngixserver:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-03T10:34:56.013306053+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 82faeed153ad2e5adeee157e2c97d74b815d88a4cd86197c9006195d0dba4e28
+    name: ngixserver
+    type: application
+    urls:
+    - ngixserver-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-10-03T10:34:56.010609119+05:30"
